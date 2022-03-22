@@ -18,7 +18,8 @@ Here are some ideas to get you started:-->
   <img align="center" alt="Icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 ##
-    
+
+<div>
   <a href = "mailto:renato.vieiralhp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renatovsantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5511969791664"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
@@ -26,3 +27,6 @@ Here are some ideas to get you started:-->
     
 ##
   
+  ![Snake animation](https://github.com/renatolhp07/renatolhp07/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
