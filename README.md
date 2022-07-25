@@ -4,7 +4,6 @@
 Here are some ideas to get you started:-->
 - 🔭 Iniciante no mundo Front-End
 - 🌱 Estudando Javascript
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/renatolhp07">
