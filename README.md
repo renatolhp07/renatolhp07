@@ -1,9 +1,9 @@
-### Olá, eu sou Renato Vieira! 👋
+### Olá, eu me chamo Renato Vieira! 👋
 <!--
 **renatolhp07/renatolhp07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
-- 🔭 Iniciante no mundo Front-End
-- 🌱 Estudando Javascript
+- 🔭 Estudante de Engenharia da Computação
+- 🌱 7º Senestre - UNIVESP
 
 <div align="center">
   <a href="https://github.com/renatolhp07">
