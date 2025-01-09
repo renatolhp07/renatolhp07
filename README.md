@@ -3,7 +3,7 @@
 **renatolhp07/renatolhp07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
 - 🔭 Estudante de Engenharia da Computação
-- 🌱 7º Semestre - UNIVESP
+- 🌱 8º Semestre - UNIVESP
 
 <div align="center">
   <a href="https://github.com/renatolhp07">
@@ -15,7 +15,8 @@ Here are some ideas to get you started:-->
     <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
+  <img align="center" alt="Icon-Python" height="30" width="40" src="https://gist.github.com/johndward01/95c1d09de9e3707cfb4154989962376d">
+    
 ##
 
 <div>
@@ -26,6 +27,6 @@ Here are some ideas to get you started:-->
     
 ##
   
- //![Snake animation](https://github.com/renatolhp07/renatolhp07/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/renatolhp07/renatolhp07/blob/output/github-contribution-grid-snake.svg)
  
 </div>
