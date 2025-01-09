@@ -25,5 +25,9 @@ Here are some ideas to get you started:-->
   <a href="https://www.linkedin.com/in/renatovsantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5511969791664"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://t.me/renato_vieira07"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>   
-    
+
+##
+  
+ ![Snake animation](https://github.com/renatolhp07/renatolhp07/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
