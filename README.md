@@ -2,8 +2,8 @@
 <!--
 **renatolhp07/renatolhp07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
-- 🔭 Estudante de Engenharia da Computação
-- 🌱 8º Semestre - UNIVESP
+-  Estudante de Engenharia da Computação
+-  9º Semestre - UNIVESP
 
 <div align="center">
   <a href="https://github.com/renatolhp07">
